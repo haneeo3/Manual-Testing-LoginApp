@@ -1,9 +1,5 @@
 # Manual-Testing-LoginApp
 A manual testing project that documents the test plan, test cases, and bug reports for a sample login form. This project demonstrates foundational manual testing skills, including test design, execution, and defect reporting.
-# Manual-Testing-LoginApp
-
-This repository contains a manual testing project for a sample login form. It demonstrates essential manual testing deliverables such as a Test Plan, Test Cases, and Bug Reports.
-
 
 
 # Project Overview
